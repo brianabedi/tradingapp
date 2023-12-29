@@ -12,7 +12,11 @@ Before building and running the application, ensure you have the following insta
 To build and run the TradingApp, follow these steps:
 
 1. **Build the Application using Gradle**  
-   ```./gradlew build
+   ```
+   ./gradlew build
+   ```
 
 2. **Running the Application**  
-   ```./gradlew run
+   ```
+   ./gradlew run
+   ```
